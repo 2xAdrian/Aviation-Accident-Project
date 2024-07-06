@@ -25,3 +25,14 @@
 
 #### Data Visualization
   * Top Accidents by Make and Model
+In this grpah we are shown the Top 10 Make and Model invovled in Aviation Accidents.
+
+
+  * How Weather and Location affect Aircraft
+
+
+  * The Severity of Aircraft Accidents
+
+
+## Conclusion
+#### There are many factors that are interlapped with your decision to purchase operating airplanes for commerical and private enterprises. More importantly, there are always risk that you must look into when deciding the perfect aircraft for you. Below are my findings, with this you may make your reasonable decision.
