@@ -6,11 +6,12 @@
    * 
 
 ## Buisness Understanding
+#### There are certain questions you might have, what am I getting myself into? Let us take a deep dive in understanding what you don't know you're missing.
  * Which aircraft types have the lowest risk of accidents?
  * What factors contribute to aviation accidents?
  * How can we minimize risks when purchasing and operating new aircraft?
 
-### Data
+## Data
 
 #### Aviation Accident database is collected from:
   * kaggle website by Kheirallah Samaha
@@ -20,3 +21,4 @@
   * Aircraft Type
   * Weather
   * Location
+  * Injuries
