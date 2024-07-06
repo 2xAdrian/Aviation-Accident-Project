@@ -22,3 +22,6 @@
   * Weather
   * Location
   * Injuries
+
+#### Data Visualization
+  * Top Accidents by Make and Model
