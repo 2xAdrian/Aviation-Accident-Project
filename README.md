@@ -25,7 +25,7 @@
 
 #### Data Visualization
   * Top Accidents by Make and Model
-In this grpah we are shown the Top 10 Make and Model invovled in Aviation Accidents.
+In this graph we are shown the Top 10 Make and Model invovled in Aviation Accidents.
 
 
   * How Weather and Location affect Aircraft
