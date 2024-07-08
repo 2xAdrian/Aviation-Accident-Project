@@ -25,13 +25,13 @@
   * Injuries
 
 #### Data Visualization
-  * Top Accidents by Make and Model
+  * Top Accidents by Aircraft Make and Model
 
 
-  * How Weather and Location affect Aircraft
+  * How Weather and Location can affect Accidents
 
 
-  * The Severity of Aircraft Accidents
+  * The Severity of Accidents Since 1982
 
 
 ## Conclusion
