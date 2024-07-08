@@ -27,12 +27,23 @@
 #### Data Visualization
   * Top Accidents by Aircraft Make and Model
 
+    
+![image](https://github.com/2xAdrian/Aviation-Accident-Project/assets/137590846/94db0191-4e8f-433e-ade4-fbf55bc10487)
+
 
   * How Weather and Location can affect Accidents
+
+
+![image](https://github.com/2xAdrian/Aviation-Accident-Project/assets/137590846/2ec761a4-5949-492f-a94a-cdcfed41862a)
+
 
 
   * The Severity of Accidents Since 1982
 
 
+![image](https://github.com/2xAdrian/Aviation-Accident-Project/assets/137590846/abf4c684-e18c-4dda-bb23-8d4948a14f60)
+
+
+
 ## Conclusion
-#### There are many factors that are interlapped with your decision to purchase operating airplanes for commerical and private enterprises. More importantly, there are always risk that you must look into when deciding the perfect aircraft for you. Below are my findings, with this you may make your reasonable decision.
+#### There are many factors that are interlapped with your decision to purchase operating airplanes for commerical and private enterprises. More importantly, there are always risk that you must look into when deciding the perfect aircraft for you. In my findings, you can see that when purchasing an Aircraft there are specifics to the Aircraft itself that will cause you to choose one on a specific Brand or even Engine type. Reciprocating motors are the main engine type that will cause accidents according to my findings. At the end of the day it dives down to who the pilot is. In my findings, the most common variable that would be the root cause of the issue is the Pilot itself. As time goes on, we will have better engines, more safety precautions, and less possibilites for accidents to occur. 
