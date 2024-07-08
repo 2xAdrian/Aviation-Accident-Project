@@ -2,7 +2,7 @@
 ## Phase 1 Project Overview
  The Aviation Accident project involves venturing into the Aviation industry to understand the risks associated with different aircraft to make informed purchasing decisions. 
 
-### Presentation Link:
+### Interactive Dashboard Link:
 ##### Below is the link to my Tableau which will show the different factors that would cause accidents.
    *  https://public.tableau.com/app/profile/adtian.anoceto/viz/Project1_17203966281440/Dashboard1
 
