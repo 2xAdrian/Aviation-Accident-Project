@@ -7,6 +7,8 @@
    *  https://public.tableau.com/app/profile/adtian.anoceto/viz/Project1_17203966281440/Dashboard1
 
 ### Presentation Link
+##### Below is the link to my Google Slides on my Non-Technical Presentation
+   * https://docs.google.com/presentation/d/1busA-P8b_3yXACQVdgL-0oT_YbSyijtGFHXBTtCKkx0/edit#slide=id.gc6f980f91_0_122
 
 ## Buisness Understanding
 ### There are certain questions you might have, what am I getting myself into? Let us take a deep dive in understanding what you don't know you're missing.
