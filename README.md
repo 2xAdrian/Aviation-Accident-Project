@@ -3,10 +3,11 @@
  The Aviation Accident project involves venturing into the Aviation industry to understand the risks associated with different aircraft to make informed purchasing decisions. 
 
 ### Presentation Link:
-   * 
+##### Below is the link to my Tableau which will show the different factors that would cause accidents.
+   *  https://public.tableau.com/app/profile/adtian.anoceto/viz/Project1_17203966281440/Dashboard1
 
 ## Buisness Understanding
-#### There are certain questions you might have, what am I getting myself into? Let us take a deep dive in understanding what you don't know you're missing.
+### There are certain questions you might have, what am I getting myself into? Let us take a deep dive in understanding what you don't know you're missing.
  * Which aircraft types have the lowest risk of accidents?
  * What factors contribute to aviation accidents?
  * How can we minimize risks when purchasing and operating new aircraft?
